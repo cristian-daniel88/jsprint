@@ -3,12 +3,6 @@ var data5 = `data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAeAB4AAD/4QA6RXhpZgAATU0A
 
 
 
-
-
-
-
-
-
 var specialElementHandlers = {
     '#editor': function (element, renderer) {
         return true;

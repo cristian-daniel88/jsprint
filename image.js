@@ -8,4 +8,7 @@ doc.setFontSize(40)
 doc.text(35, 25, 'Paranyan loves jsPDF')
 doc.addImage(data5, 'JPEG', 15, 40, 30, 30)
 
-doc.save("test.pdf")
+doc.save("test.pdf");
+
+
+//https://dataurl.app/
